@@ -1,11 +1,10 @@
 import 'package:flutter/material.dart';
-import 'package:health_chain/screens/patient_dashboard/patient_db_nav_screen.dart';
 
-import '../../constants.dart';
-import '../../screens/doctor/doctor_nav_screen.dart';
+
+
+
 import '../../screens/patient/patient_nav_screen.dart';
-import '../../screens/patient/patient_otp_screen.dart';
-import '../input_container.dart';
+
 import '../rounded_button.dart';
 import '../rounded_input.dart';
 import '../rounded_password_input.dart';

@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:health_chain/constants.dart';
+
+import '../../utilities/constants.dart';
+
 
 class PatientSetting extends StatelessWidget {
   const PatientSetting({Key? key}) : super(key: key);

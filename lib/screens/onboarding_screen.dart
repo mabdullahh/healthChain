@@ -1,10 +1,11 @@
 import 'package:concentric_transition/page_view.dart';
 import 'package:flutter/material.dart';
-import 'package:health_chain/constants.dart';
+
 
 import 'package:health_chain/screens/login_and_signup/login_and_signup.dart';
 
-import '../assets.dart';
+import '../utilities/assets.dart';
+import '../utilities/constants.dart';
 import '../widgets/onboarding_widget.dart';
 
 class OnboardingPage extends StatelessWidget {

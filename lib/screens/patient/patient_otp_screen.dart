@@ -1,7 +1,8 @@
 import 'package:flutter/material.dart';
 import 'dart:math';
 
-import '../../constants.dart';
+
+import '../../utilities/constants.dart';
 import '../../widgets/rounded_button.dart';
 import '../../widgets/rounded_input.dart';
 

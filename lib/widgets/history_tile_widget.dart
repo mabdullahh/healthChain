@@ -1,7 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:health_chain/constants.dart';
+
 
 import '../model/patient_history_model.dart';
+import '../utilities/constants.dart';
 
 class HistoryTileWidget extends StatelessWidget {
   const HistoryTileWidget({Key? key, required this.historyList})

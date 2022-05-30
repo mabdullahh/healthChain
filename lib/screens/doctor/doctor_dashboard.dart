@@ -1,9 +1,10 @@
 import 'package:flutter/material.dart';
-import 'package:health_chain/constants.dart';
+
 
 import 'package:health_chain/widgets/rounded_button.dart';
 import 'package:health_chain/widgets/rounded_input.dart';
 
+import '../../utilities/constants.dart';
 import '../patient_dashboard/patient_db_nav_screen.dart';
 
 class DoctorDashBoard extends StatelessWidget {

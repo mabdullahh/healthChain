@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 
-import '../constants.dart';
+import '../utilities/constants.dart';
+
+
 class InputContainer extends StatelessWidget {
   const InputContainer({
     Key? key,

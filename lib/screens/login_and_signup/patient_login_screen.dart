@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 
-import '../../constants.dart';
+
+import '../../utilities/constants.dart';
 import '../../widgets/doctor/cancel_button.dart';
 import '../../widgets/doctor/register_form.dart';
 import '../../widgets/patient/patient_login_form.dart';

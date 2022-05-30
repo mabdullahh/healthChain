@@ -1,9 +1,10 @@
 import 'package:flutter/material.dart';
-import 'package:health_chain/constants.dart';
+
 
 import 'package:lottie/lottie.dart';
 
-import '../../assets.dart';
+import '../../utilities/assets.dart';
+import '../../utilities/constants.dart';
 import '../../widgets/rounded_button.dart';
 import 'doctor_login_screen.dart';
 import 'fpatient_login_screen.dart';

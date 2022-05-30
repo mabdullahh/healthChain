@@ -2,7 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:health_chain/widgets/input_container.dart';
 
 
-import '../../constants.dart';
+
+import '../../utilities/constants.dart';
 
 
 class DoctorWalletScreen extends StatelessWidget {

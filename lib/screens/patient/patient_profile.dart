@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 
-import '../../constants.dart';
+
+import '../../utilities/constants.dart';
 import '../../widgets/input_container.dart';
 class PatientWalletScreen extends StatelessWidget {
   const PatientWalletScreen({Key? key}) : super(key: key);
