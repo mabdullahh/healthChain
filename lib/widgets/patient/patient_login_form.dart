@@ -63,6 +63,7 @@ class PatientLoginForm extends StatelessWidget {
                     context,
                     MaterialPageRoute(builder: (context) => const PatientNavScreen()),
                   );
+                  print(usernameTEC.text);
                 }),
 
                 const SizedBox(height: 10),

@@ -6,7 +6,8 @@ class RoundedInput extends StatelessWidget {
   const RoundedInput({
     Key? key,
     required this.icon,
-    required this.hint, required this.controller
+    required this.hint,
+    required this.controller,
   }) : super(key: key);
 
   final IconData icon;

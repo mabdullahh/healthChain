@@ -6,6 +6,7 @@ import 'package:lottie/lottie.dart';
 import '../../assets.dart';
 import '../../widgets/rounded_button.dart';
 import 'doctor_login_screen.dart';
+import 'fpatient_login_screen.dart';
 import 'patient_login_screen.dart';
 
 class LoginAndSignup extends StatelessWidget {
@@ -44,7 +45,7 @@ class LoginAndSignup extends StatelessWidget {
                 RoundedButton(title: 'Login or Signup as a Patient',onTap:(){
                   Navigator.push(
                     context,
-                    MaterialPageRoute(builder: (context) => const PatientLoginScreen()),
+                    MaterialPageRoute(builder: (context) =>  FpatientLoginScreen()),
                   );
                 }),
                 const SizedBox(
